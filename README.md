@@ -1,4 +1,4 @@
-# Jobpal_task
+# Jobpal
 
 The JSON dataset consists of two features set and a target set corresponding to the feature set.
 The feature sets are title, description and target set is the Level. 
